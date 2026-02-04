@@ -1,0 +1,7 @@
+Departure Date,Origin,Destination,Vehicle,Driver,Status,Notes
+2026-02-10,Hamburg,Warschau,HH-ML 1012,Jürgen Hartmann,Planned,20 Europaletten Stückgut für Müller Logistik
+2026-02-12,München,Poznań,M-SS 2034,Michael Becker,Planned,FTL Komplettladung Maschinenteile
+2026-02-14,Köln,Berlin,K-KK 4078,Frank Zimmermann,Planned,Kühlware Frischware -2°C bis +4°C
+2026-02-15,Düsseldorf,Frankfurt,D-BC 5090,Oliver Wagner,Planned,ADR Kl. 3 - Benzintransport
+2026-02-11,Stuttgart,München,S-FA 6012,Lukas Schäfer,Planned,JIT Automobilteile - Gitterboxen
+2026-02-16,Bremen,Hamburg,HB-WT 3056,Andreas Richter,Planned,40ft Seecontainer Umschlag

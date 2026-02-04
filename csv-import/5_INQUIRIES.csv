@@ -1,0 +1,7 @@
+Inquiry Date,Client,Contact,Origin City/Postal,Destination City/Postal,Loading Date,Delivery Date,Cargo Type,ADR,ADR Class/UN,Dimensions,Weight kg,Status,Source,UTM Source,Notes
+2026-02-01,Müller Logistik GmbH,Hans Müller,Hamburg 20095,Warschau 00-001,2026-02-10,2026-02-11,Paletten,false,,120x80x180 x 20 Stk.,12000,New,Phone,,20 Europaletten - Stückgut
+2026-02-02,Schneider Spedition GmbH & Co. KG,Thomas Schneider,München 80331,Poznań 60-001,2026-02-12,2026-02-13,Komplettladung,false,,Komplettladung LKW,23000,Quoted,Email,,FTL Plane - Maschinenteile
+2026-02-03,Koch Kühllogistik GmbH,Monika Koch,Köln 50667,Berlin 10115,2026-02-14,2026-02-14,Kühlware,false,,33 Paletten,18000,Accepted,Phone,,Frischware -2°C bis +4°C
+2026-02-04,Braun Chemie Transport AG,Stefan Braun,Düsseldorf 40213,Frankfurt 60311,2026-02-15,2026-02-15,Gefahrgut,true,"3, UN1203",Tankfahrzeug,20000,New,Web Form,google_ads,Benzin - ADR Klasse 3
+2026-02-04,Fischer Automotive Logistics GmbH,Katrin Fischer,Stuttgart 70173,München 80331,2026-02-11,2026-02-11,Automobilteile,false,,8 Gitterboxen,2800,New,Email,,JIT-Lieferung an Produktionslinie
+2026-02-04,Weber Transporte GmbH,Klaus Weber,Bremen 28195,Hamburg 20095,2026-02-16,2026-02-16,Container,false,,1x 40ft Container,22000,Quoted,Phone,,Seecontainer - Umschlag Hafen

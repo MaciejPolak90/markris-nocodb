@@ -1,0 +1,7 @@
+Full Name,Phone,License Categories,ADR,ADR Classes,ADR Expiry Date,Medical Exam Expiry,Vehicle,Notes
+Jürgen Hartmann,+49 170 111 2233,"B,C,CE",false,,,2026-09-30,HH-ML 1012,Fernverkehr - Erfahrung Skandinavien
+Michael Becker,+49 171 333 4455,"B,C,CE",false,,,2026-12-15,M-SS 2034,Fernverkehr DE-PL Strecke
+Andreas Richter,+49 172 555 6677,"B,C,CE",false,,,2027-06-20,HB-WT 3056,Containerverkehr Hafen Bremen
+Frank Zimmermann,+49 173 777 8899,"B,C,CE",false,,,2026-08-10,K-KK 4078,Kühllogistik - Temperaturüberwachung
+Oliver Wagner,+49 174 999 0011,"B,C,CE",true,"3,8",2027-05-30,2027-03-15,D-BC 5090,ADR-Schein Klasse 3 und 8 - Gefahrgut
+Lukas Schäfer,+49 175 222 3344,"B,C",false,,,2026-11-20,S-FA 6012,Nahverkehr - JIT Zustellungen Stuttgart
