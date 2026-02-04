@@ -1,0 +1,5 @@
+.env
+pg_data/
+nc_data/
+node_modules/
+docker-compose.override.yml
