@@ -1,0 +1,10 @@
+Full Name,Position,Email,Phone,Primary Contact,1_CLIENTs 1,5_INQUIRIES,_nc_m2m_2_CONTACTS_1_CLIENTs,Company Name (from 1_CLIENTS),_nc_m2m_5_INQUIRIES_2_CONTACTs
+Hans Müller,Geschäftsführer,h.mueller@mueller-logistik.de,+49 40 123 4560,true,1,1,[object Object],Müller Logistik GmbH,[object Object]
+Petra Hoffmann,Disponentin,p.hoffmann@mueller-logistik.de,+49 40 123 4561,false,1,0,[object Object],Müller Logistik GmbH,
+Thomas Schneider,Leiter Spedition,t.schneider@schneider-spedition.de,+49 89 234 5670,true,1,1,[object Object],Schneider Spedition GmbH & Co. KG,[object Object]
+Sabine Lang,Sachbearbeiterin,s.lang@schneider-spedition.de,+49 89 234 5671,false,1,0,[object Object],Schneider Spedition GmbH & Co. KG,
+Klaus Weber,Logistikleiter,k.weber@weber-transporte.de,+49 421 345 6780,true,1,1,[object Object],Weber Transporte GmbH,[object Object]
+Monika Koch,Disposition Kühllogistik,m.koch@koch-kuehl.de,+49 221 456 7891,true,1,1,[object Object],Koch Kühllogistik GmbH,[object Object]
+Stefan Braun,Gefahrgutbeauftragter,s.braun@braun-chemie.de,+49 211 567 8902,true,1,1,[object Object],Braun Chemie Transport AG,[object Object]
+Katrin Fischer,Supply Chain Managerin,k.fischer@fischer-auto.de,+49 711 678 9013,true,1,1,[object Object],Fischer Automotive Logistics GmbH,[object Object]
+beispiel name,none,beispiel@gmail.com,49123456789,false,1,0,[object Object],Example_Company,

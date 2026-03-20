@@ -1,0 +1,7 @@
+Registration Number,Body Type,Capacity kg,Capacity m3,Pallet Spaces,ADR,ADR Classes,Inspection Date,Insurance Expiry,Notes,4_DRIVERs,6_TRANSPORTs,_nc_m2m_4_DRIVERS_3_VEHICLEs,Full Name (from 4_DRIVERS),_nc_m2m_6_TRANSPORTS_3_VEHICLEs
+HH-ML 1012,Plane/Tautliner,24000,86,33,true,"3,4.2,5.1",2026-06-15,2026-12-31,MAN TGX 18.510,1,1,[object Object],Jürgen Hartmann,[object Object]
+M-SS 2034,Plane/Tautliner,24000,86,33,false,,2026-03-20,2026-09-30,Volvo FH 500,1,1,[object Object],Michael Becker,[object Object]
+HB-WT 3056,Containerchassis,26000,0,0,true,"4.3,5.1",2026-08-10,2027-01-15,Für 20ft und 40ft Container,1,1,[object Object],Andreas Richter,[object Object]
+K-KK 4078,Kühlkoffer,22000,76,33,false,,2026-05-01,2026-11-30,Thermo King SLXi 300 - Tiefkühlung,1,1,[object Object],Frank Zimmermann,[object Object]
+D-BC 5090,Tankfahrzeug,25000,0,0,true,"3,8",2026-09-20,2027-03-15,ADR Tankzulassung Kl. 3 und 8,1,2,[object Object],Oliver Wagner,"[object Object],[object Object]"
+S-FA 6012,Kastenwagen,3500,22,8,false,,2026-04-10,2026-10-31,Mercedes Sprinter - JIT Zustellungen,1,2,[object Object],Lukas Schäfer,"[object Object],[object Object]"

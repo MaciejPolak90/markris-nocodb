@@ -1,0 +1,9 @@
+Departure Date,Origin,Destination,Status,Notes,3_VEHICLEs,4_DRIVERs,7_FREIGHTs,Transport Capacity %,Free Percent,Free Pallets,Free Capacity (kg),_nc_m2m_6_TRANSPORTS_3_VEHICLEs,_nc_m2m_6_TRANSPORTS_4_DRIVERs,Driver,Vehicle,Vehicle Pallet Spaces,Vehicle Capacity (kg),_nc_m2m_7_FREIGHTS_6_TRANSPORTs
+2026-02-19,Hamburg,Warschau,Planned,20 Europaletten Stückgut für Müller Logistik,1,1,1,30,70,23,16800,[object Object],[object Object],Jürgen Hartmann,HH-ML 1012,33,24000,[object Object]
+2026-02-12,München,Berlin,Planned,FTL Komplettladung Maschinenteile,1,1,1,40,60,19,14400,[object Object],[object Object],Michael Becker,M-SS 2034,33,24000,[object Object]
+2026-02-14,Köln,Berlin,Planned,Kühlware Frischware -2°C bis +4°C,1,1,1,75,25,8,5500,[object Object],[object Object],Frank Zimmermann,K-KK 4078,33,22000,[object Object]
+2026-02-15,Düsseldorf,Frankfurt,Planned,ADR Kl. 3 - Benzintransport,1,1,1,80,20,0,5000,[object Object],[object Object],Oliver Wagner,D-BC 5090,0,25000,[object Object]
+2026-02-11,Stuttgart,München,Planned,JIT Automobilteile - Gitterboxen,1,1,1,60,40,3,1400,[object Object],[object Object],Lukas Schäfer,S-FA 6012,8,3500,[object Object]
+2026-02-11,Bremen,Hamburg,Planned,40ft Seecontainer Umschlag,1,1,1,100,0,0,0,[object Object],[object Object],Andreas Richter,HB-WT 3056,0,26000,[object Object]
+2026-02-24,Munchen,Hamburg,Planned,,1,1,1,40,60,0,15000,[object Object],[object Object],Michael Becker,D-BC 5090,0,25000,[object Object]
+2026-02-20,ABC,CBA,Planned,,1,1,1,75,25,2,875,[object Object],[object Object],Michael Becker,S-FA 6012,8,3500,[object Object]

@@ -1,0 +1,8 @@
+Company Name,VAT ID,Address,Email,Phone,Notes,2_CONTACTs,5_INQUIRIES1,7_FREIGHTs,_nc_m2m_2_CONTACTS_1_CLIENTs,_nc_m2m_7_FREIGHTS_1_CLIENTs,Full Name (from 2_CONTACTS),_nc_m2m_5_INQUIRIES_1_CLIENTs
+Müller Logistik GmbH,DE112233445,"Hafenstr. 22, 20095 Hamburg",info@mueller-logistik.de,+49 40 123 4567,Stammkunde - internationaler Transport,2,1,1,"[object Object],[object Object]",[object Object],"Hans Müller,Petra Hoffmann",[object Object]
+Schneider Spedition GmbH & Co. KG,DE223344556,"Industriestr. 8, 80331 München",kontakt@schneider-spedition.de,+49 89 234 5678,Komplettladungen DE-PL,2,1,1,"[object Object],[object Object]",[object Object],"Thomas Schneider,Sabine Lang",[object Object]
+Weber Transporte GmbH,DE334455667,"Am Containerhafen 3, 28195 Bremen",info@weber-transporte.de,+49 421 345 6789,Spezialisierung: See- und Containertransport,1,1,1,[object Object],[object Object],Klaus Weber,[object Object]
+Koch Kühllogistik GmbH,DE445566778,"Kühlhausring 15, 50667 Köln",disposition@koch-kuehl.de,+49 221 456 7890,Kühllogistik - Tiefkühl- und Frischware,1,1,1,[object Object],[object Object],Monika Koch,[object Object]
+Braun Chemie Transport AG,DE556677889,"Rheinuferstr. 40, 40213 Düsseldorf",logistik@braun-chemie.de,+49 211 567 8901,ADR - Chemikalientransport Kl. 3 und 8,1,1,1,[object Object],[object Object],Stefan Braun,[object Object]
+Fischer Automotive Logistics GmbH,DE667788990,"Werksallee 7, 70173 Stuttgart",spedition@fischer-auto.de,+49 711 678 9012,Automobilteile - JIT-Belieferung,1,1,1,[object Object],[object Object],Katrin Fischer,[object Object]
+Example_Company,DE123456789,beispielStrasse,beispiel@gmail.com,49 123456789,,1,0,1,[object Object],[object Object],beispiel name,
